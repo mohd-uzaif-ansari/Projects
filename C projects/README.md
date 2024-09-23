@@ -1,3 +1,7 @@
+![image png](https://github.com/user-attachments/assets/d275cac8-1fe3-4c52-84a2-567c3fb62297)
+
+
+
 Number Guessing Game in C
 Author: Mohd Uzaif Ansari
 Date: 23rd September 2024
